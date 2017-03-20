@@ -1,0 +1,7 @@
+
+For windows :
+1. Download jenkins.msi from Jenkin official site.
+  https://jenkins.io/download/
+2. once installation finished . open below URL though it supposed to open itself after installation finishes.
+  http://localhost:8080/
+3. 
